@@ -1,8 +1,7 @@
 # CSC436-Project
 Software &amp; Safety Requirements Engineering Project
 
-Team Ch03Ri95:  Brandon LaPointe
-                Jack Anzalone
+Team Ch03Ri95:  Brandon LaPointe & Jack Anzalone
                 
 Disclaimer
 Any similarity with real-life or fictional entities is purely coincidental.
